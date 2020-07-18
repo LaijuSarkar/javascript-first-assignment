@@ -9,7 +9,6 @@ console.log(result);
 
 
 
-
 // start wood calculator 
 
 function woodCalculator(chair, table, bed){
@@ -22,7 +21,6 @@ function woodCalculator(chair, table, bed){
 }
 var woodResult = woodCalculator(8, 10, 12);
 console.log(woodResult);
-
 
 
 
